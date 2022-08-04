@@ -11,7 +11,7 @@ export default function Home() {
                     <br /> Solana wallet
                 </h1>
 
-                <div className="flex border-dashed border-2 border-white my-8 w-3/4" />
+                <div className="flex border-dashed border-2 border-zera-green my-8 w-3/4" />
 
                 <p
                     className="italic text-xl"
